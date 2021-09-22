@@ -14,7 +14,7 @@ movie_list = [
               ('Dangal','Aamir Khan','Fatima Sana Shaikh','2016','Nitesh Tiwari'),
               ('Shutter Island','Leonardo DiCaprio','Michelle Williams','2010','Martin Scorsese'),
               ('Neelakasham Pachakadal Chuvanna Bhoomi','Dulquer Salmaan','Paloma Monappa','2013','Sameer Thahir'),
-              ('Soorarai Pottru','Suriya','Aparna Balamurali','2016','Sudha Kongara Prasad'),
+              ('Soorarai Pottru','Suriya','Aparna Balamurali','2020','Sudha Kongara Prasad'),
               ('Avatar','Sam Worthington','Zoe Saldana','2009','James Cameron'),
               ('Memories','Prithviraj Sukumaran','Meghana Raj','2013','Jeethu Joseph'),
               ]
